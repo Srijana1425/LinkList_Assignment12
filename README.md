@@ -62,7 +62,7 @@ linked list, the output is -1.<br><br>
 ***********************************************************************************************
 **Question 4**<br>
 Given a singly linked list of characters, write a function that returns true if the given list is a palindrome, else false.<br>
-![q4]()<br>
+![q4](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/img/q4.png)<br>
 **Examples:**<br>
 Input: R->A->D->A->R->NULL<br>
 **Output:** Yes<br>
