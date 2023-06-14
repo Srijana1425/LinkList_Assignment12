@@ -9,7 +9,7 @@ Input:LinkedList: 2->4->6->7->5->1<br>
 Output:2 4 6 5 1<br><br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans1.js)<br>
 ***********************************************************************************************
 **Question 2**<br>
 Given a linked list of **N** nodes. The task is to check if the linked list has a loop. Linked list can contain self loop.<br>
@@ -35,7 +35,7 @@ the Linked list does not contains
 any loop.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans2.js)<br>
 ***********************************************************************************************
 **Question 3**<br>
 Given a linked list consisting of **L** nodes and given a number **N**. The task is to find the **N**th node from the end of the linked list.<br>
@@ -58,7 +58,7 @@ is more than the number of nodes in the
 linked list, the output is -1.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans3.js)<br>
 ***********************************************************************************************
 **Question 4**<br>
 Given a singly linked list of characters, write a function that returns true if the given list is a palindrome, else false.<br>
@@ -70,7 +70,7 @@ Input: R->A->D->A->R->NULL<br>
 **Output:** No<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans4.js)<br>
 ***********************************************************************************************
 **Question 5**<br>
 Given a linked list of **N** nodes such that it may contain a loop.
@@ -107,7 +107,7 @@ If you remove it successfully,
 the answer will be 1.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans5.js)<br>
 ***********************************************************************************************
 **Question 6**<br>
 Given a linked list and two integers M and N. Traverse the linked list such that you retain M nodes then delete next N nodes, continue the same till end of the linked list.<br>
@@ -126,7 +126,7 @@ Linked List: 1->2->3->4->5->6->7->8->9->10<br>
 Output:Linked List: 1->3->5->7->9<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans6.js)<br>
 ***********************************************************************************************
 **Question 7**
 Given two linked lists, insert nodes of second list into first list at alternate positions of first list.
@@ -134,11 +134,11 @@ For example, if first list is 5->7->17->13->11 and second is 12->10->2->4->6, th
 Use of extra space is not allowed (Not allowed to create additional nodes), i.e., insertion must be done in-place. Expected time complexity is O(n) where n is number of nodes in first list.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans7.js)<br>
 ***********************************************************************************************
 **Question 8**<br>
 Given a singly linked list, find if the linked list is [circular](https://www.geeksforgeeks.org/circular-linked-list/amp/) or not.<br>
 A linked list is called circular if it is not NULL-terminated and all nodes are connected in the form of a cycle. Below is an example of a circular linked list.<br>
 ![q5](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/img/q8.png)<br><br>
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/LinkList_Assignment12/blob/main/ans8.js)<br>
